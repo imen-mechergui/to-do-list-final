@@ -1,0 +1,13 @@
+
+body{
+  background-color: gray;
+
+}
+.App {
+  width: 400px;
+  min-height: 500px;
+  background-color: rgb(61, 61, 224);
+  margin: 40px  ;
+
+}
+
